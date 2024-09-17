@@ -1,4 +1,4 @@
 package computerdatabase;
 
-public class ForUla {
+public class ForUla {///
 }
